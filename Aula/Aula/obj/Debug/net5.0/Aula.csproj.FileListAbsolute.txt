@@ -1,0 +1,16 @@
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\bin\Debug\net5.0\Aula.exe
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\bin\Debug\net5.0\Aula.deps.json
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\bin\Debug\net5.0\Aula.runtimeconfig.json
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\bin\Debug\net5.0\Aula.runtimeconfig.dev.json
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\bin\Debug\net5.0\Aula.dll
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\bin\Debug\net5.0\ref\Aula.dll
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\bin\Debug\net5.0\Aula.pdb
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\Aula.csproj.AssemblyReference.cache
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\Aula.AssemblyInfoInputs.cache
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\Aula.AssemblyInfo.cs
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\Aula.csproj.CoreCompileInputs.cache
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\Aula.dll
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\ref\Aula.dll
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\Aula.pdb
+D:\code_pronet\Tadashi\Aula05-07\Aula\Aula\obj\Debug\net5.0\Aula.genruntimeconfig.cache

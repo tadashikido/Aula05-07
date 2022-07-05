@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8efzLWpnKt7GJVfMvbNorGMtiF+BycoEcPnim773SDslZ5n86qFI/xegEYamFZp4s9MRIJSjqxm2QzsqhD8OYQ==",
+  "success": true,
+  "projectFilePath": "D:\\code_pronet\\Tadashi\\Aula05-07\\Aula\\Aula\\Aula.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pronet.tadashi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
