@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/hiTZoqfCGQAE1zJDbOhuyUzPNCfi0Ql4knEQJ0ZSMQ6DTebvVUg7GSHrcF0Bifm3FrjQOHy9ekz3Q9xGONlOQ==",
+  "success": true,
+  "projectFilePath": "D:\\code_pronet\\Tadashi\\Aula05-07\\SistemaCadastroClientes\\SistemaCadastroClientes\\SistemaCadastroClientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pronet.tadashi\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\pronet.tadashi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

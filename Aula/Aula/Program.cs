@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Aula
 {
@@ -9,9 +10,20 @@ namespace Aula
             //Console.Write(TextoInvertido("estou estudando programação"));
             //Console.WriteLine(IsPalindromo2("ovo"));
             //Console.WriteLine(IsPalindromo2("bala"));
-            Console.WriteLine(CamelCase("Gosto de estudar  PROgramação "));
+            //Console.WriteLine(CamelCase("Gosto de estudar  PROgramação "));
 
-            
+            //Console.WriteLine(CamelCase2("Gosto de estudar  PROgramação "));
+
+            var valor1 = new Objeto(2);
+
+            Funcao(valor1);
+
+            Console.WriteLine(valor1.Valor);
+        }
+
+        public static void Funcao(Objeto valor)
+        {
+            valor.Valor = 4;
         }
 
         public static string TextoInvertido(string texto)
@@ -33,7 +45,7 @@ namespace Aula
 
             return invertido;
         }
-        
+
         public static bool IsPalindromo(string texto)
         {
             var isPalindromo = true;
@@ -68,5 +80,28 @@ namespace Aula
 
             return camelCase;
         }
+
+        public static string CamelCase2(string texto)
+        {
+            var camelCase = "";
+
+            var vetor = texto.Split(" ");
+
+            foreach (var palavra in vetor)
+            {
+                if (palavra != "")
+                    camelCase += char.ToUpper(palavra[0]) + palavra.Substring(1).ToLower();
+            }
+
+            return camelCase;
+        }
+
+        //"Gosto      
+        //de
+        //estudar
+        //
+        //PROgramação
+        //"
+        //["Gosto", "de", "estudar", "PROgramação"]
     }
 }
